@@ -79,7 +79,7 @@ h6{
   position: absolute;
   z-index: 1;
   width: 300px;
-  height: 300px;
+  height: px;
   -webkit-transform: scaleY(0.5774) rotate(-45deg);
   -ms-transform: scaleY(0.5774) rotate(-45deg);
   transform: scaleY(0.5774) rotate(-45deg);
