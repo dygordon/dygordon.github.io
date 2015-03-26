@@ -42,7 +42,7 @@
             <div class="container">
                 <!-- Logo Starts -->
                 <div data-scroll-reveal="enter top and move 50px over 1.2s" class="hexagon">
-                    <img src="https://cloud.githubusercontent.com/assets/9079667/6847950/a963c4ec-d3a0-11e4-91ed-37fb3f7137e8.png" height=50 width=50><span></span>
+                    <i class="fa"><img src="https://cloud.githubusercontent.com/assets/9079667/6847950/a963c4ec-d3a0-11e4-91ed-37fb3f7137e8.png" height=100 width=100></i><span></span>
                 </div>
                 <!-- Logo Ends -->
                 <!-- Main Heading Starts -->
