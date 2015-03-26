@@ -70,9 +70,8 @@ h6{
   width: 70px; 
   height: 40.41px;
   background-color: #05c3f9 ;
-  opacity: 0;
   margin: 90px auto 140px auto;
-  box-shadow: 0 0 10px rgba(0,0,0,0);
+  box-shadow: 0 0 10px rgba(0,0,0,0.35);
 }
 
 .hexagon:before,
@@ -86,9 +85,8 @@ h6{
   -ms-transform: scaleY(0.5774) rotate(-45deg);
   transform: scaleY(0.5774) rotate(-45deg);
   background-color: inherit;
-  opacity: 0;
   left: 10.2513px;
-  box-shadow: 0 0 10px rgba(0,0,0,0);
+  box-shadow: 0 0 10px rgba(0,0,0,0.35);
 }
 
 .hexagon:before {
