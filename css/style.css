@@ -67,8 +67,8 @@ h6{
 	 
 .hexagon {
   position: relative;
-  width: 70px; 
-  height: 40.41px;
+  width: 200px; 
+  height: 200px;
   margin: 90px auto 140px auto;
   box-shadow: 0 0 10px rgba(0,0,0,0);
 }
@@ -101,8 +101,8 @@ h6{
   position: absolute;
   top:0px;
   left: 0;
-  width:70px;
-  height:40.4145px;
+  width:200px;
+  height:200px;
   z-index: 2;
   background: inherit;
 }
